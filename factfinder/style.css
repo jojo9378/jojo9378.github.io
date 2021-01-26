@@ -1,0 +1,55 @@
+ #fact1{
+	width:100px;
+	height:50px;
+	border: 5px inset yellow;
+	background-color:lavender;
+	color:black;
+	font-family:bold;
+ }
+ #fact2{
+	width:100px;
+	height:50px;
+	border: 5px inset blue;
+	background-color:lavender;
+	color:black;
+	font-family:bold;
+ }
+ #fact3{
+	width:100px;
+	height:50px;
+	border: 5px inset red;
+	background-color:lavender;
+	color:black;
+	font-family:bold;
+ }
+ #fact4{
+	width:100px;
+	height:50px;
+	border: 5px inset pink;
+	background-color:lavender;
+	color:black;
+	font-family:bold;
+ }
+ #fact5{
+	width:100px;
+	height:50px;
+	border: 5px inset purple;
+	background-color:lavender;
+	color:black;
+	font-family:bold;
+ }
+ div{
+	 width:500px;
+	 height:350px;
+	 border:10px inset black;
+	 background-color:skyblue;
+	 padding:10px;
+ }
+ body{
+	 background-color:lightgreen;
+ }
+img{
+	height:200px;
+	width:200px;
+	float:left;
+}
